@@ -1,4 +1,4 @@
-# 📜 Tamil Proverbs Exploration Dashboard
+# 📜 TamProGen
 
 Welcome to the **Tamil Proverbs Visualizer**, a Streamlit-powered dashboard for exploring the depth, diversity, and beauty of Tamil proverbs! This tool lets you visualize, filter, and search proverbs based on their type, content, and frequency of usage.
 
