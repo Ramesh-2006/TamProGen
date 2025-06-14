@@ -27,7 +27,7 @@ Welcome to the **Tamil Proverbs Visualizer**, a Streamlit-powered dashboard for 
 
 ## 📁 File Structure
 
-tamil-proverbs-dashboard/
+TamProGen/
 ├── app.py # Main Streamlit dashboard script
 ├── preprocessing.py # Script to clean and tokenize proverbs
 ├── preprocessed_tamil_proverbs.json # Preprocessed dataset
