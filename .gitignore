@@ -1,0 +1,7 @@
+.venv/
+tfenv/
+__pycache__/
+*.pyd
+*.dll
+*.wav
+*.mp3
